@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1> No Offers now, come back after few days </h1>   
+         <h1> Wait till tomorrow morning 9 AM for bumber Offers </h1>   
 	 
 
     </section>    
