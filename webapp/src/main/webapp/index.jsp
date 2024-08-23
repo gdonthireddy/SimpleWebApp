@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1> Wait till tomorrow morning 9 AM for bumber Offers </h1>   
+         <h1> 30% off on mobiles till tomorrow morning 9 AM</h1>   
 	 
 
     </section>    
